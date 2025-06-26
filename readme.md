@@ -77,7 +77,7 @@ Con este enfoque se busca **no solo resolver el problema de detección de angust
 
 ---
 
-## 📎 Dataset utilizado
+## Dataset utilizado
 
 - **Nombre**: SMILE Twitter Emotion Dataset  
 - **Autores**: Wang et al. (2016)  
